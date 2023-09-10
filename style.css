@@ -1,0 +1,28 @@
+.color-picker {
+    text-align: center;
+    padding: 20px;
+}
+
+#color-values {
+    margin-top: 10px;
+    font-size: 18px;
+}
+#ID{
+    color:goldenrod;
+    text-decoration: underline;
+    font-family: rockwell;
+    text-align: center;
+}
+#Follow{
+    color: pink;
+    text-align: center;
+    font-size: larger;
+}
+
+#image{
+ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
